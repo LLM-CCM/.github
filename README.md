@@ -1,4 +1,4 @@
-# LLM IS ALL YOU NEED?
+# Explore the underlying semantic and syntactic representations that state-of-the-art language models (such as BERT and GPT-3)
 
 With the release of GPT-4, a transformer-based large language model, many are struck
 by its ability to generate correct sentences and understand complex ideas. However, as
