@@ -1,4 +1,4 @@
-# .github
+# LLM IS ALL YOU NEED?
 
 With the release of GPT-4, a transformer-based large language model, many are struck
 by its ability to generate correct sentences and understand complex ideas. However, as
